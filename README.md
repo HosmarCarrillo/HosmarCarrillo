@@ -6,7 +6,11 @@
 ###  👋 Hi, I'm Hosmar Carrillo! I am Venezuelan and I live in Buenos Aires, Argentina. I am a Full Stack developer, Lawyer, Higher University Technician in Computer Science and Graphic Designer. I am constantly learning and eager to continue training in new technologies to continue growing professionally.  
   
 
-- 🙂 I studied programming at bootcamp Henry.  
+- 🙂 I studied programming at bootcamp Henry.
+- English level A2 certified by EF SET  
+<a href="https://www.efset.org/cert/PiLESt" target="_blank">
+<img src=https://upload.wikimedia.org/wikipedia/commons/e/e4/EFSET-logo.jpg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />  
+  
 Email: hosmarcarrillo@gmail.com
   
 
