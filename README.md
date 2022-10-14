@@ -3,8 +3,7 @@
 </div>  
   
 
-###  👋 Hi, I'm Hosmar Carrillo! I am Venezuelan and I live in Buenos Aires, Argentina. I am a Full Stack developer, Lawyer, Higher University Technician in Computer Science and Graphic Designer. I am constantly learning and eager to continue training in new technologies to continue growing professionally. I have experience in creating web applications. Using the PERN Stack (PostgreSQL, Express, React, Nodejs) to generate scalable and customizable projects. I have knowledge in technologies such as JavaScript, React.js, Node.Js, PostgreSQL, CSS, HTML, Express, Sequelize, Typescript, SQL and Phython.
-I also have more than 10 years of experience as a Graphic Designer, managing technologies such as Photoshop, Illustrator, Premier, among others, which has made it easier for me to integrate with some tools such as Figma and XD, for the development of UX/UI user experience.
+###  👋 Hi, I'm Hosmar Carrillo! I am Venezuelan and I live in Buenos Aires, Argentina. I am a Full Stack developer, Lawyer, Higher University Technician in Computer Science and Graphic Designer. I am constantly learning and eager to continue training in new technologies to continue growing professionally. I have experience in creating web applications. Using the PERN Stack (PostgreSQL, Express, React, Nodejs) to generate scalable and customizable projects. I have knowledge in technologies such as JavaScript, React.js, Node.Js, PostgreSQL, CSS, HTML, Express, Sequelize and Phython. I also have more than 10 years of experience as a Graphic Designer, managing technologies such as Photoshop, Illustrator, Premier, among others, which has made it easier for me to integrate with some tools such as Figma and XD, for the development of UX/UI user experience.
 
   
 
